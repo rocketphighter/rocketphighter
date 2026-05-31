@@ -1,5 +1,5 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com/herbolist.svg?label=toughluck&color=1434A4&labelColor=36454F&logo=toughluck)](https://hits.sh/github.com/herbolist/)
-<img width="1000" height="531" alt="image" src="https://github.com/user-attachments/assets/466dd7b8-1a3e-43f8-94e1-a7c2d89172f5" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dafb099d-b1a0-40b4-8eda-69ee134e1a64" />
+
 
 
 
