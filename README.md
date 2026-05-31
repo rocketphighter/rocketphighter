@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://hits.sh/github.com/"><img alt="Hits" src="https://hits.sh/github.com.svg?style=for-the-badge&label=demolition%20expert&color=d89726&labelColor=2e63bc"/></a>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com.svg?style=flat-square&label=demolition%20expert&color=e3a332&labelColor=396fca)](https://hits.sh/github.com/)
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="157" height="240" alt="image" src="https://github.com/user-attachments/assets/ca1457b2-b2a5-4775-a9d0-501c477e2706" />
 
