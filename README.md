@@ -1,6 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com.svg?style=plastic&label=demolition%20experts&color=d59531&labelColor=3853b4&logo=demolition%20experts)](https://hits.sh/github.com/)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dafb099d-b1a0-40b4-8eda-69ee134e1a64" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="157" height="240" alt="image" src="https://github.com/user-attachments/assets/ca1457b2-b2a5-4775-a9d0-501c477e2706" />
+
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#527CAE}{\textsf{siver / rocket}}$
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#527CAE}{\textsf{they/any , 15yo}}$
