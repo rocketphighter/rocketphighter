@@ -9,6 +9,6 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#527CAE}{\textsf{i love}}$ [rocket phighting](https://phighting.wiki/Rocket)  $\color{#FFBF00}{\textsf{and}}$ [taph forsaken](https://forsaken.wiki/Taph)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#AA4A44}{\textsf{dni:}}$ [basic](https://dni-criteria.carrd.co/)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#AA4A44}{\textsf{dni:}}$ [basic](https://dni-criteria.carrd.co/)
 
 
